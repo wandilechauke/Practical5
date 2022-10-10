@@ -1,0 +1,19 @@
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\Semester 2 p5.exe.config
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\Semester 2 p5.exe
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\Semester 2 p5.pdb
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\BLL.dll
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\DAL.dll
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\BLL.pdb
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\bin\Debug\DAL.pdb
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.csproj.AssemblyReference.cache
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.Form1.resources
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.frmPhoto.resources
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.frmUser.resources
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.Properties.Resources.resources
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.csproj.GenerateResource.cache
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.csproj.CoreCompileInputs.cache
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.csproj.CopyComplete
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.exe
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester 2 p5.pdb
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.Category.resources
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\Semester 2 p5\obj\Debug\Semester_2_p5.frmPhotos.resources

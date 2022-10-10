@@ -1,0 +1,5 @@
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\DAL\bin\Debug\DAL.dll
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\DAL\bin\Debug\DAL.pdb
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\DAL\obj\Debug\DAL.dll
+C:\Users\Wandile fvckers\source\repos\Semester 2 p5\DAL\obj\Debug\DAL.pdb
